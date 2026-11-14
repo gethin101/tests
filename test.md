@@ -28,9 +28,9 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 - [**GhostOne**](https://github.com/gethin101/GhostOne) - Flipper-zero inspired pentesting & access control system multitool device
 - [**Christmas LEDs**](https://github.com/gethin101/Led_christmas_lights) - Voice-controlled LED christmas lights room setup
 - [**Flux Saber**](https://github.com/gethin101/flux-saber) - Custom DIY lightsaber powered by an Arduino Nano & WS2812B LEDs
-- 
+
 ---
-## 🛠️ Skills & Technologies
+## Skills & Technologies 🛠️
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
