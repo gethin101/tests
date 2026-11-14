@@ -20,6 +20,13 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 - [**Gethin-75**](https://github.com/gethin101/Gethin-75) — A custom 60% mechanical Cherry-MX keyboard powered by a Pi Pico
 - [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) — Robot-wars inspired combat robot controlled via a WiFi access point
 - [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) — An analogue 555 IC LED blinker inspired by police lights
+
+## Works In Progress
+
+- [**Hackpad v1**](https://github.com/gethin101/hackpad_2025) — A 3x3 mechanical macropad powered by a XIAO-RP2040
+- [**Gethin-75**](https://github.com/gethin101/Gethin-75) — A custom 60% mechanical Cherry-MX keyboard powered by a Pi Pico
+- [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) — Robot-wars inspired combat robot controlled via a WiFi access point
+- [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) — An analogue 555 IC LED blinker inspired by police lights
 - 
 ---
 ## 🛠️ Skills & Technologies
