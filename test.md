@@ -17,6 +17,7 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 ## Past Projects
 
 - [**Hackpad v1**](https://github.com/gethin101/hackpad_2025) - A 3x3 mechanical macropad powered by a XIAO-RP2040
+- [**Terminator Eyes**](https://github.com/gethin101/terminator-eyes) - Terminator eyes LED project built for a client
 - [**Gethin-75**](https://github.com/gethin101/Gethin-75) - A custom 60% mechanical Cherry-MX keyboard powered by a Pi Pico
 - [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) - Robot-wars inspired combat robot controlled via a WiFi access point
 - [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) - An analogue 555 IC LED blinker inspired by police lights
@@ -25,8 +26,8 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 
 - [**A1M Camera System**](https://github.com/gethin101/A1-mini-camera-system) - Custom external timelapse camera system for A1 Mini 3D printer
 - [**GhostOne**](https://github.com/gethin101/GhostOne) - Flipper-zero inspired pentesting & access control system multitool device
-- [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) - Robot-wars inspired combat robot controlled via a WiFi access point
-- [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) - An analogue 555 IC LED blinker inspired by police lights
+- [**Christmas LEDs**](https://github.com/gethin101/Led_christmas_lights) - Voice-controlled LED christmas lights room setup
+- [**Flux Saber**](https://github.com/gethin101/flux-saber) - Custom DIY lightsaber powered by an Arduino Nano & WS2812B LEDs
 - 
 ---
 ## 🛠️ Skills & Technologies
