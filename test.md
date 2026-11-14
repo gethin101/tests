@@ -30,14 +30,9 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 - [**Flux Saber**](https://github.com/gethin101/flux-saber) - Custom DIY lightsaber powered by an Arduino Nano & WS2812B LEDs
 
 ---
-## Skills & Technologies 🛠️
+## Skills & Technologies 💻
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
+![Python](https://shieldcn.dev/badge/Python.svg?brand=python&mode=light)
 
-## 📦 Top Repositories
-
-<a href="https://github.com/gethin101/flux-saber"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/gethin101/flux-saber.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="flux-saber ⭐ 1" src="https://www.shieldcn.dev/github/stars/gethin101/flux-saber.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
-
----
 
 <sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
