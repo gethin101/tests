@@ -12,6 +12,16 @@ My interests include **PCB design**, **Web development**, **Embedded systems**, 
 
 </div>
 
+---
+
+## Past Projects
+
+- [**Hackpad v1**](https://github.com/gethin101/hackpad_2025) — A 3x3 mechanical macropad powered by a XIAO-RP2040
+- [**Gethin-75**](https://github.com/gethin101/Gethin-75) — A custom 60% mechanical Cherry-MX keyboard powered by a Pi Pico
+- [**GG-Battle-Robot**](https://github.com/gethin101/GG-Battle-robot) — Robot-wars inspired combat robot controlled via a WiFi access point
+- [**555 Blinky**](https://github.com/gethin101/Gethin-blinky) — An analogue 555 IC LED blinker inspired by police lights
+- 
+---
 ## 🛠️ Skills & Technologies
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
