@@ -2,7 +2,9 @@
 
 # Hi, I'm gethin101 👋
 
-@hackclub
+A student and self-taught hardware & software developer who enjoys learning about and building real, functional computer science projects.
+
+My interests include **PCB design**, **Web development**, **Embedded systems**, and **Software engineering**.
 
 <a href="https://github.com/gethin101"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40gethin101-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40gethin101-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://gethingrice.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-gethingrice.com-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-gethingrice.com-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
