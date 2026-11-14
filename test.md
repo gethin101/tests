@@ -2,7 +2,7 @@
 
 # Hi, I'm gethin101 👋
 
-A student and self-taught hardware & software developer who enjoys learning about and building real, functional computer science projects.
+A student and self-taught hardware & software developer who enjoys building real, functional computer science projects.
 
 My interests include **PCB design**, **Web development**, **Embedded systems**, and **Software engineering**.
 
